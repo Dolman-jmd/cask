@@ -10,6 +10,9 @@ function App() {
         <p>
           I fucking deleted all this shit bro
           You not going to believe it when you see it
+          I really just want to check if this is all working
+          How am I doing this? Well I want to create more and unique things
+          How is that possible? I am trying to make my version of master unique 
         </p>
       </header>
     </div>
